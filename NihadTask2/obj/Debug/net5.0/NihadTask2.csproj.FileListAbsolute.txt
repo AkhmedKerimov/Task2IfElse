@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\bin\Debug\net5.0\NihadTask2.exe
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\bin\Debug\net5.0\NihadTask2.deps.json
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\bin\Debug\net5.0\NihadTask2.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\bin\Debug\net5.0\NihadTask2.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\bin\Debug\net5.0\NihadTask2.dll
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\bin\Debug\net5.0\NihadTask2.pdb
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\NihadTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\NihadTask2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\NihadTask2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\NihadTask2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\NihadTask2.dll
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\refint\NihadTask2.dll
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\NihadTask2.pdb
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\NihadTask2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\NihadTask2\NihadTask2\obj\Debug\net5.0\ref\NihadTask2.dll
